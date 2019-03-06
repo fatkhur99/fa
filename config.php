@@ -5,24 +5,24 @@ $config = [
 
   "imei" => [
 
-"xxxxxxxxxxxxxxx",// akun 1
+"868698035872300",// akun 1
 
 ],
 
   "sign" => [
-"xxxxxxxxxxxxxxx",// akun 1
+"5d5b0893fc8010341a56951419de1653b98ec4ac",// akun 1
 
 ],
 
   "token" => [
 
-"xxxxxxxxxxxxxxxx",// akun 1
+"35c2f74530e8042ce735f2f0cd667729",// akun 1
 
 ],
 
   "uuid" => [
 
-"xxxxxxxxxxxxxxxx",// akun 1
+"386c5f1937487e3a",// akun 1
 
 ],
   ];
